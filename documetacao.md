@@ -18,6 +18,8 @@ Com isso, o programa demonstra de forma prática como aplicar conceitos de orien
 - 3 cabos macho-macho;
 - 1 arduino uno;
 - 1 protoboard pequena;
+- 1 semáforo em MDF;
+- 1 base para semáforo em MDF;
 
 ## Código
 class led {
@@ -56,6 +58,38 @@ void loop(){
   
 }
 
-### Link do Vídeo
+### Funcionamento
+
+
+O led Vermelho pisca por 4 segundos.
+O led verde pisca por 3 segundos.
+O led amarelo pisca por 1 segundo.
+
+**Imagens**
+
+ Abaixo, há imagens do funcionamento do sistema:
+<br>
+<div align="center">
+  <p>Figura 1 - Circuito</p>
+</div>
+<div align="center">
+  <img src="./assets/1.jpeg"/>
+</div>
+<div align="center">
+  <p>Fonte: Autoria Própria</p>
+</div>
+<br>
+<br>
+<div align="center">
+  <p>Figura 2 - Semaforo</p>
+</div>
+<div align="center">
+  <img src="./assets/2.jpeg"/>
+</div>
+<div align="center">
+  <p>Fonte: Autoria Própria</p>
+</div>
+
+**Link do vídeo**
 
 https://drive.google.com/file/d/1Ol9CUQCOoQfA6oZber1H94RsfLT4uSbN/view?usp=sharing 
