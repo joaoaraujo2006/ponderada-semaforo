@@ -22,6 +22,8 @@ Com isso, o programa demonstra de forma prática como aplicar conceitos de orien
 - 1 base para semáforo em MDF;
 
 ## Código
+
+```c++
 class led {
   private:
     int porta;
@@ -57,7 +59,7 @@ void loop(){
   amarelo->piscar(1000);
   
 }
-
+```
 ### Funcionamento
 
 
